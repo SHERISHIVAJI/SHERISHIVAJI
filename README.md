@@ -21,7 +21,6 @@
 I'm a recent graduate in **Computer Science Engineering** from **Avanthi Institute of Engineering and Technology (JNTUH)** with a CGPA of **8.11**. I'm passionate about building scalable software solutions and enjoy solving real-world problems using technology.
 
 - 🔭 Currently open to Software Developer roles
-- 🌱 Currently exploring **Full Stack Development** & **Cybersecurity**
 - 💬 Ask me about `Java`, `C`, `C++`, `Web Dev`, or anything tech!
 - 📫 Reach me at **shivajisheri@gmail.com**
 
