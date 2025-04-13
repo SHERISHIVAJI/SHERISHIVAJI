@@ -57,8 +57,8 @@ I'm a recent graduate in **Computer Science Engineering** from **Avanthi Institu
 - **Salesforce Developer Virtual Internship** – SmartIntern x AICTE (2024)
 - **Cybersecurity Analyst Job Simulation** – Forage x TCS (2024)
 - **TCS iON Career Edge** – Certificate of Achievement (2024)
-- **Code Unnati Innovation Marathon 2024-25** – Participant
-
+- **Code Unnati Innovation Marathon 2024-25** – Participant certificate CodeUnnati x TASK x EdunetFoundation x SAP x Gujarat Technological University
+- **Code Unnati Advanced Course** – Certificate of Completion CodeUnnati x TASK x EdunetFoundation x SAP (2025)
 ---
 
 ### 🎤 Co-Curricular Activities
