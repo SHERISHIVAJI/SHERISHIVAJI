@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheri Shivaji</h1>
+
 <p align="center">
   🚀 Aspiring Software Developer | 💻 C | C++ | Core Java | Python | Web Development | MySQL<br>
   🎓 Final Year B.Tech (CSE) Student | 📍 Telangana, India
