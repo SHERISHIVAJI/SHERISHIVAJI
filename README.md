@@ -36,6 +36,7 @@ I'm a graduating student in **Computer Science Engineering** stream from **Avant
 ---
 ### 💡 Projects
 **🔐 Navigating Privacy Conflicts in Social Media: A Multi-Party Approach**  
+
 *A Java-based privacy management system that allows collaborative control over shared content privacy settings.*
 ---
 ### 📜 Certifications
