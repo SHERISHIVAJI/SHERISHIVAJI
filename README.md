@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Profile" />
   </a>
 </p>
----
 
 ### 🧑‍🎓 About Me
 
