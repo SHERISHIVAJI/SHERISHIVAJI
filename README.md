@@ -13,6 +13,7 @@
   </a>
 </p>
 ---
+
 ### 🧑‍🎓 About Me
 
 I'm a graduating student in **Computer Science Engineering** stream from **Avanthi Institute of Engineering and Technology (JNTUH)** with a CGPA of **8.11**. I'm passionate about building scalable software solutions and enjoy solving real-world problems using technology.
@@ -58,6 +59,7 @@ I'm a graduating student in **Computer Science Engineering** stream from **Avant
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHERISHIVAJI&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 ---
+
 ### 🔗 Let's Connect
 - GitHub: [github.com/SHERISHIVAJI](https://github.com/SHERISHIVAJI)
 - LinkedIn: [linkedin.com/in/sherishivaji2774](https://www.linkedin.com/in/sherishivaji2774/)
