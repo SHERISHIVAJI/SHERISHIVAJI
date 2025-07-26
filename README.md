@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sheri Shivaji</h1>
 
 <p align="center">
-  🚀 Aspiring Software Developer | 💻 JAVA | Python | C++ | C | Web Development | MySQL<br>
-  🎓 Final Year B.Tech (CSE) Student | 📍 Telangana, India
+  🚀 B.Tech CSE Final Year | 💻 JAVA | Python | C++ | Web Technologies | MySQL<br>
+  📍 Kangti, Sangareddy, Telangana, India
 </p>
+
 <p align="center">
   <a href="https://github.com/SHERISHIVAJI" target="_blank">
     <img src="https://img.shields.io/github/followers/SHERISHIVAJI?label=Follow&style=social" alt="GitHub Followers" />
@@ -13,58 +14,103 @@
   </a>
 </p>
 
+---
+
 ### 🧑‍🎓 About Me
 
-I'm a graduating student in **Computer Science Engineering** stream from **Avanthi Institute of Engineering and Technology (JNTUH)** with a CGPA of **8.15**. I'm passionate about building scalable software solutions and enjoy solving real-world problems using technology.
-- 🔭 Currently open to Software Developer roles
-- 💬 Ask me about `Java`, `C`, `C++`, `Web Dev`, or anything tech!
-- 📫 Reach me at **shivajisheri@gmail.com**
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate with a strong foundation in programming and software development.  
+Proficient in **Java, C++, Python, C, HTML, CSS, JavaScript**, and **MySQL**.  
+Looking forward to contributing to impactful projects and growing within a dynamic and collaborative development team.
 
-### 🛠️ Skills & Technologies
-- **Languages:** Java, Python, C++, C, JavaScript, HTML, CSS, MySQL
-- **Tools:** VS Code, Git, Eclipse, DevC++, Notepad
-- **Operating Systems:** Windows OS
-- **Soft Skills:** Communication, Problem-solving, Adaptability, Attention to detail
 ---
-### 📚 Education
-- **B.Tech in CSE** – Avanthi Institute of Engineering and Technology, JNTUH – CGPA: 8.11 (2025)
-- **Intermediate (MPC)** – Vijetha Junior College, CGPA: 9.58 (2021)
-- **SSC** – ZPHS Tadkal, CGPA: 9.2 (2019)
+
+### 🛠️ Technical Skills
+
+- **Languages:** Java, C++, Python, C Programming, PHP  
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Databases:** MySQL  
+- **Concepts:** OOP, Data Structures, SDLC, DBMS  
+- **Tools & IDEs:** Visual Studio Code, Git, Eclipse, DevC++, Notepad  
+
 ---
+
+### 🎓 Education
+
+- **B.Tech in Computer Science Engineering**  
+  *Avanthi Institute of Engineering and Technology, JNTUH*  
+  **CGPA:** 8.15 (2021 – 2025)
+
+- **Intermediate – MPC**  
+  *Vijetha Junior College*  
+  **CGPA:** 9.58 (2019 – 2021)
+
+- **SSC**  
+  *Zilla Parishad High School*  
+  **CGPA:** 9.2 (2018 – 2019)
+
+---
+
 ### 💡 Projects
 
-**🔐 Navigating Privacy Conflicts in Social Media: A Multi-Party Approach**  
+#### 🔐 [Navigating Privacy Conflicts in Social Media: A Multi-Party Approach](https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media_a_multy_party_approach-)
 
-*A Java-based privacy management system that allows collaborative control over shared content privacy settings.*
+- **Technologies Used:** Java, JSP/Servlets, MySQL  
+- **Description:** Built a web-based system that enables multiple users to collaboratively manage privacy settings on shared social media content.  
+  Implemented backend logic in Java using JSP/Servlets and managed user data securely with MySQL. Focused on personalized privacy control beyond default platform standards.
 
 ---
+
+#### 🐞 [Developer-Focused Defect Forecasting](https://github.com/SHERISHIVAJI/Developer-Focused-Defect-Forecasting)
+
+- **Technologies Used:** Java, JSP/Servlets, Python (ML), MySQL  
+- **Description:** Built a web-based defect prediction system using **Random Forest** and **Naive Bayes** algorithms to forecast bugs based on developer behavior and code metrics.  
+  Integrated Java (JSP/Servlets) frontend with a Python ML backend and MySQL database for efficient data handling and result analysis.
+
+---
+
 ### 📜 Certifications
-- **Salesforce Developer Virtual Internship** – SmartIntern x AICTE (2024)
-- **Cybersecurity Analyst Job Simulation** – Forage x TCS (2024)
-- **TCS iON Career Edge** – Certificate of Achievement (2024)
-- **Code Unnati Innovation Marathon 2024-25** – Participant certificate CodeUnnati x TASK x EdunetFoundation x SAP x Gujarat Technological University
-- **Code Unnati Advanced Course** – Certificate of Completion CodeUnnati x TASK x EdunetFoundation x SAP (2025)
----
-### 🎤 Co-Curricular Activities
-- 🏆 **1st Place** in Poster Presentation – Avanthi Institute
-- 📽️ Technical Presentation on **Apache Kafka**
-- 🏭 Industrial Visit – Infosys Webinar on Industry Trends
+
+- **Salesforce Developer Virtual Internship** – SmartIntern & AICTE  
+- **Cybersecurity Analyst Job Simulation** – TCS Forage  
+- **Code Unnati Innovation Marathon** – SAP & Edunet Foundation  
+- **Advanced Training in Emerging Technologies** – Edunet Foundation (2024–25)  
+- **Career Edge Certificate** – TCS iON
 
 ---
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHERISHIVAJI&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHERISHIVAJI&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+### 🏆 Additional Highlights
+
+- **Technical Presentation (PPT)** on **Apache Kafka**
+- **Poster Presentation Winner** – Avanthi Institute of Engineering and Technology
+- **Industrial Visit:** Infosys – Webinar on Industry Trends
+
 ---
 
-### 🔗 Let's Connect
-- GitHub: [github.com/SHERISHIVAJI](https://github.com/SHERISHIVAJI)
-- LinkedIn: [linkedin.com/in/sherishivaji2774](https://www.linkedin.com/in/sherishivaji2774/)
-- Email: shivajisheri@gmail.com
+### 🧠 Soft Skills
+
+- Effective Communication and Collaboration  
+- Problem-Solving and Analytical Thinking  
+- Fast Learner with Adaptability to New Tech  
+- Strong Attention to Detail
+
 ---
+
+### 🌐 Languages Known
+
+- English  
+- Kannada  
+- Telugu  
+- Hindi
+
+---
+
+### 📬 Contact
+
+- 📧 Email: **shivajisheri@gmail.com**  
+- 📞 Phone: **+91 9849483963**  
+- 🐙 GitHub: [github.com/SHERISHIVAJI](https://github.com/SHERISHIVAJI)  
+- 💼 LinkedIn: [linkedin.com/in/sherishivaji2774](https://www.linkedin.com/in/sherishivaji2774/)
+
+---
+
 > “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
