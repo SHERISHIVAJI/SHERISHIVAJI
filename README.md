@@ -18,6 +18,7 @@
 Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate with a strong foundation in programming and software development.  
 Proficient in **Java, C++, Python, C, HTML, CSS, JavaScript**, and **MySQL**.  
 Looking forward to contributing to impactful projects and growing within a dynamic and collaborative development team.
+
 ### 💻 Languages & Tools
 
 <p align="left">
@@ -31,6 +32,7 @@ Looking forward to contributing to impactful projects and growing within a dynam
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
 </p>
+
 ---
 
 ### 🛠️ Technical Skills
