@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheri Shivaji</h1>
 
 <p align="center">
-  🚀 B.Tech CSE Final Year | 💻 JAVA | Python | C++ | Web Technologies | MySQL<br>
-  📍 Kangti, Sangareddy, Telangana, India
+  🚀 B.Tech CSE | 💻 JAVA | Python | C++ | C | Web Technologies | MySQL<br>
 </p>
 
 <p align="center">
