@@ -13,8 +13,6 @@
   </a>
 </p>
 
----
-
 ### 🧑‍🎓 About Me
 
 Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate with a strong foundation in programming and software development.  
