@@ -61,7 +61,8 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 ### 💡 Projects
 
-####  [sheri-shivaji-portfolio](https://github.com/SHERISHIVAJI/my-portfolio)
+#### ![p](https://github.com/user-attachments/assets/97329a0b-ac3b-4858-bb24-5dbd8fc0ab6c)
+  [sheri-shivaji-portfolio](https://github.com/SHERISHIVAJI/my-portfolio)
 
 - **Technologies Used:** HTML, CSS, JavaScript  
 - **Description:** Developed and deployed a responsive portfolio website showcasing projects and achievements. Demonstrated effective use of modern web design practices.
