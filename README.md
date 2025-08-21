@@ -15,9 +15,7 @@
 
 ### 🧑‍🎓 About Me
 
-Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate with a strong foundation in programming and software development.  
-Proficient in **Java, C++, Python, C, HTML, CSS, JavaScript**, and **MySQL**.  
-Looking forward to contributing to impactful projects and growing within a dynamic and collaborative development team.
+Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate with a strong foundation in programming and software development. Proficient in **Java, C++, Python, C, HTML, CSS, JavaScript**, and **MySQL**. Looking forward to contributing to impactful projects and growing within a dynamic and collaborative development team.
 
 ### 💻 Languages & Tools
 
@@ -62,6 +60,13 @@ Looking forward to contributing to impactful projects and growing within a dynam
 ---
 
 ### 💡 Projects
+
+####  [sheri-shivaji-portfolio](https://github.com/SHERISHIVAJI/my-portfolio)
+
+- **Technologies Used:** HTML, CSS, JavaScript  
+- **Description:** Developed and deployed a responsive portfolio website showcasing projects and achievements. Demonstrated effective use of modern web design practices.
+
+---
 
 #### 🔐 [Navigating Privacy Conflicts in Social Media: A Multi-Party Approach](https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media_a_multy_party_approach-)
 
