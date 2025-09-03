@@ -61,7 +61,14 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 ### 💡 Projects
 
-#### [sheri-shivaji-portfolio](https://github.com/SHERISHIVAJI/my-portfolio)
+#### [SHERU-virtual-assistent](https://shivaji-virtual-assistent.vercel.app/)
+
+- **Technologies Used:** HTML, CSS, JavaScript  
+- **Description:** Developed a web-based virtual assistant named "SHERU" using HTML, CSS, and JavaScript. The assistant leverages the Web Speech API to enable voice commands for hands-free interaction, enhancing accessibility and user experience.
+
+---
+
+#### [sheri-shivaji-portfolio](https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/)
 
 - **Technologies Used:** HTML, CSS, JavaScript  
 - **Description:** Developed and deployed a responsive portfolio website showcasing projects and achievements. Demonstrated effective use of modern web design practices.
