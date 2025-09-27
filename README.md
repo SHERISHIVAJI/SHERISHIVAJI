@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheri Shivaji</h1>
+<h1 align="center">Hi 👋, I'm SHERI SHIVAJI</h1>
 
 <p align="center">
   🚀 B.Tech CSE | 💻 JAVA | Python | C++ | C | Web Technologies | MySQL<br>
