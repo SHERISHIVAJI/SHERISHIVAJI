@@ -46,15 +46,15 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 ### 🎓 Education
 
-- **Bachelor of Technology - Computer Science Engineering**
+- **Bachelor of Technology - Computer Science Engineering** <br>
 Avanthi Institute of Engineering and Technology, JNTUH <br>
 Nov '21 - Jul '25 <br>
 CGPA: 8.15 <br>
-- **Intermediate - MPC**
+- **Intermediate - MPC** <br>
 Vijetha Junior College <br>
 Jun '19 - May '21 <br>
 CGPA: 9.58 <br>
-- **SSC**
+- **SSC** <br>
 Zilla Parishad High School <br>
 Jun '18 - May '19 <br>
 CGPA: 9.2 <br>
