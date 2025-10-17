@@ -35,29 +35,29 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 ### 🛠️ Technical Skills
 
-- ➢ **Languages:** Java, C++, C, Python, PHP
-- ➢ **Web Technologies:** HTML, CSS, JavaScript
-➢ **Database:** MySQL
-➢ **Tools & Platforms:** Git, GitHub, Eclipse, VS Code, DevC++, Turbo C++
-➢ **Concepts:** OOP, DSA, SDLC, DBMS
-➢ **Other:** Responsive Web Design, Web Performance Optimization, SEO Basics 
+- **Languages:** Java, C++, C, Python, PHP
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools & Platforms:** Git, GitHub, Eclipse, VS Code, DevC++, Turbo C++
+- **Concepts:** OOP, DSA, SDLC, DBMS
+- **Other:** Responsive Web Design, Web Performance Optimization, SEO Basics 
 
 ---
 
 ### 🎓 Education
 
-➢ **Bachelor of Technology - Computer Science Engineering**
-o Avanthi Institute of Engineering and Technology, JNTUH
-o Nov '21 - Jul '25
-o CGPA: 8.15
-➢ **Intermediate - MPC**
-o Vijetha Junior College
-o Jun '19 - May '21
-o CGPA: 9.58
-➢ **SSC**
-o Zilla Parishad High School
-o Jun '18 - May '19
-o CGPA: 9.2
+- **Bachelor of Technology - Computer Science Engineering**
+-- Avanthi Institute of Engineering and Technology, JNTUH
+-- Nov '21 - Jul '25
+-- CGPA: 8.15
+- **Intermediate - MPC**
+-- Vijetha Junior College
+-- Jun '19 - May '21
+-- CGPA: 9.58
+- **SSC**
+-- Zilla Parishad High School
+-- Jun '18 - May '19
+-- CGPA: 9.2
 
 ---
 
@@ -106,9 +106,9 @@ o CGPA: 9.2
 
 ### 🧠 Soft Skills
 
-• Strong problem-solving ability.
-• Effective communicator and active team player.
-• Detail-oriented and quick learner.
+- Strong problem-solving ability.
+- Effective communicator and active team player.
+- Detail-oriented and quick learner.
 
 ---
 
