@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHERI SHIVAJI</h1>
 
 <p align="center">
-  🚀 B.Tech CSE | 💻 JAVA | Python | C++ | C | Web Technologies | MySQL<br>
+  Aspiring Full-Stack Developer (Java, HTML, CSS, JavaScript, MySQL) | B.Tech CSE (2025) – JNTUH | Passionate About Scalable Software Solutions, Web Applications & Clean UI Design<br>
 </p>
 
 <p align="center">
