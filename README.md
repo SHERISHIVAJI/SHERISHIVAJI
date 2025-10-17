@@ -35,8 +35,8 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 ### 🛠️ Technical Skills
 
-➢ **Languages:** Java, C++, C, Python, PHP
-➢ **Web Technologies:** HTML, CSS, JavaScript
+- ➢ **Languages:** Java, C++, C, Python, PHP
+- ➢ **Web Technologies:** HTML, CSS, JavaScript
 ➢ **Database:** MySQL
 ➢ **Tools & Platforms:** Git, GitHub, Eclipse, VS Code, DevC++, Turbo C++
 ➢ **Concepts:** OOP, DSA, SDLC, DBMS
