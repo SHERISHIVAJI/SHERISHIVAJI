@@ -35,27 +35,29 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 ### 🛠️ Technical Skills
 
-- **Languages:** Java, C++, Python, C Programming, PHP  
-- **Web Technologies:** HTML, CSS, JavaScript  
-- **Databases:** MySQL  
-- **Concepts:** OOP, Data Structures, SDLC, DBMS  
-- **Tools & IDEs:** Visual Studio Code, Git, Eclipse, DevC++, Notepad  
+➢ **Languages:** Java, C++, C, Python, PHP
+➢ **Web Technologies:** HTML, CSS, JavaScript
+➢ **Database:** MySQL
+➢ **Tools & Platforms:** Git, GitHub, Eclipse, VS Code, DevC++, Turbo C++
+➢ **Concepts:** OOP, DSA, SDLC, DBMS
+➢ **Other:** Responsive Web Design, Web Performance Optimization, SEO Basics 
 
 ---
 
 ### 🎓 Education
 
-- **B.Tech in Computer Science Engineering**  
-  *Avanthi Institute of Engineering and Technology, JNTUH*  
-  **CGPA:** 8.15 (2021 – 2025)
-
-- **Intermediate – MPC**  
-  *Vijetha Junior College*  
-  **CGPA:** 9.58 (2019 – 2021)
-
-- **SSC**  
-  *Zilla Parishad High School*  
-  **CGPA:** 9.2 (2018 – 2019)
+➢ **Bachelor of Technology - Computer Science Engineering**
+o Avanthi Institute of Engineering and Technology, JNTUH
+o Nov '21 - Jul '25
+o CGPA: 8.15
+➢ **Intermediate - MPC**
+o Vijetha Junior College
+o Jun '19 - May '21
+o CGPA: 9.58
+➢ **SSC**
+o Zilla Parishad High School
+o Jun '18 - May '19
+o CGPA: 9.2
 
 ---
 
@@ -65,13 +67,6 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 - **Technologies Used:** HTML, CSS, JavaScript  
 - **Description:** Developed a web-based virtual assistant named "SHERU" using HTML, CSS, and JavaScript. The assistant leverages the Web Speech API to enable voice commands for hands-free interaction, enhancing accessibility and user experience.
-
----
-
-#### [sheri-shivaji-portfolio](https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/)
-
-- **Technologies Used:** HTML, CSS, JavaScript  
-- **Description:** Developed and deployed a responsive portfolio website showcasing projects and achievements. Demonstrated effective use of modern web design practices.
 
 ---
 
@@ -111,10 +106,9 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 ### 🧠 Soft Skills
 
-- Effective Communication and Collaboration  
-- Problem-Solving and Analytical Thinking  
-- Fast Learner with Adaptability to New Tech  
-- Strong Attention to Detail
+• Strong problem-solving ability.
+• Effective communicator and active team player.
+• Detail-oriented and quick learner.
 
 ---
 
