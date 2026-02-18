@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHERI SHIVAJI</h1>
+<h1 align="center">Hi, I'm SHERI SHIVAJI</h1>
 
 <p align="center">
   Aspiring Full-Stack Developer (Java, HTML, CSS, JavaScript, MySQL) | B.Tech CSE (2025) – JNTUH | Passionate About Scalable Software Solutions, Web Applications & Clean UI Design<br>
@@ -13,11 +13,11 @@
   </a>
 </p>
 
-### 🧑‍🎓 About Me
+### About Me
 
 Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate with a strong foundation in programming and software development. Proficient in **Java, C++, Python, C, HTML, CSS, JavaScript**, and **MySQL**. Looking forward to contributing to impactful projects and growing within a dynamic and collaborative development team.
 
-### 💻 Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
@@ -33,7 +33,7 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 - **Languages:** Java, C++, C, Python, PHP
 - **Web Technologies:** HTML, CSS, JavaScript
@@ -44,7 +44,7 @@ Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate w
 
 ---
 
-### 🎓 Education
+### Education
 
 - **Bachelor of Technology - Computer Science Engineering** <br>
 Avanthi Institute of Engineering and Technology, JNTUH <br>
@@ -61,9 +61,9 @@ CGPA: 9.2 <br>
 
 ---
 
-### 💡 Projects
+### Projects
 
-#### 🔐 [Navigating Privacy Conflicts in Social Media: A Multi-Party Approach](https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media_a_multy_party_approach-)
+#### [Navigating Privacy Conflicts in Social Media: A Multi-Party Approach](https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media_a_multy_party_approach-)
 
 - **Technologies Used:** Java, JSP/Servlets, MySQL  
 - **Description:** Built a web-based system that enables multiple users to collaboratively manage privacy settings on shared social media content.  
@@ -71,7 +71,7 @@ CGPA: 9.2 <br>
 
 ---
 
-#### 🐞 [Developer-Focused Defect Forecasting](https://github.com/SHERISHIVAJI/Developer-Focused-Defect-Forecasting)
+#### [Developer-Focused Defect Forecasting](https://github.com/SHERISHIVAJI/Developer-Focused-Defect-Forecasting)
 
 - **Technologies Used:** Java, JSP/Servlets, Python (ML), MySQL  
 - **Description:** Built a web-based defect prediction system using **Random Forest** and **Naive Bayes** algorithms to forecast bugs based on developer behavior and code metrics.  
@@ -86,7 +86,7 @@ CGPA: 9.2 <br>
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - **Salesforce Developer Virtual Internship** – SmartIntern & AICTE
 - **Web Developer Intern** – Labmentix & ISO  
@@ -105,7 +105,7 @@ CGPA: 9.2 <br>
 
 ---
 
-### 🧠 Soft Skills
+### Soft Skills
 
 - Strong problem-solving ability.
 - Effective communicator and active team player.
@@ -113,7 +113,7 @@ CGPA: 9.2 <br>
 
 ---
 
-### 🌐 Languages Known
+### Languages Known
 
 - English  
 - Telugu 
@@ -122,14 +122,13 @@ CGPA: 9.2 <br>
 
 ---
 
-### 📬 Contact
+### Contact
 
-- 📧 Email: **shivajisheri@gmail.com**  
-- 📞 Phone: **+91 9849483963**  
-- 🐙 GitHub: [github.com/SHERISHIVAJI](https://github.com/SHERISHIVAJI)  
-- 💼 LinkedIn: [linkedin.com/in/sherishivaji2774](https://www.linkedin.com/in/sherishivaji2774/)
-- Potfolio: [ my-portfolio-xi-nine-tkaly4qyzx.vercel.app/ ](https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/)
-
+- **Email:** shivajisheri@gmail.com 
+- **Phone:** +91 9849483963
+- **GitHub:** [github.com/SHERISHIVAJI](https://github.com/SHERISHIVAJI)  
+- **LinkedIn:** [linkedin.com/in/sherishivaji2774](https://www.linkedin.com/in/sherishivaji2774/)
+- **Potfolio:** [ my-portfolio-xi-nine-tkaly4qyzx.vercel.app/ ](https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/)
 ---
 
 > “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
