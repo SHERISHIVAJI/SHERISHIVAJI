@@ -97,7 +97,7 @@ CGPA: 9.2 <br>
 
 ---
 
-### 🏆 Additional Highlights
+### Additional Highlights
 
 - **Technical Presentation (PPT)** on **Apache Kafka**
 - **Poster Presentation Winner** – Avanthi Institute of Engineering and Technology
