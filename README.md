@@ -125,7 +125,7 @@ CGPA: 9.2 <br>
 ### Contact
 
 - **Email:** shivajisheri@gmail.com 
-- **Phone:** +91 9849483963
+- **Phone:** <a href="tel:+919849483963>9849483963</a>
 - **GitHub:** [github.com/SHERISHIVAJI](https://github.com/SHERISHIVAJI)  
 - **LinkedIn:** [linkedin.com/in/sherishivaji2774](https://www.linkedin.com/in/sherishivaji2774/)
 - **Potfolio:** [ my-portfolio-xi-nine-tkaly4qyzx.vercel.app/ ](https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/)
