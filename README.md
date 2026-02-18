@@ -63,13 +63,6 @@ CGPA: 9.2 <br>
 
 ### 💡 Projects
 
-#### [SHERU-virtual-assistent](https://shivaji-virtual-assistent.vercel.app/)
-
-- **Technologies Used:** HTML, CSS, JavaScript  
-- **Description:** Developed a web-based virtual assistant named "SHERU" using HTML, CSS, and JavaScript. The assistant leverages the Web Speech API to enable voice commands for hands-free interaction, enhancing accessibility and user experience.
-
----
-
 #### 🔐 [Navigating Privacy Conflicts in Social Media: A Multi-Party Approach](https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media_a_multy_party_approach-)
 
 - **Technologies Used:** Java, JSP/Servlets, MySQL  
@@ -86,9 +79,17 @@ CGPA: 9.2 <br>
 
 ---
 
+#### [SHERU-virtual-assistent](https://shivaji-virtual-assistent.vercel.app/)
+
+- **Technologies Used:** HTML, CSS, JavaScript  
+- **Description:** Developed a web-based virtual assistant named "SHERU" using HTML, CSS, and JavaScript. The assistant leverages the Web Speech API to enable voice commands for hands-free interaction, enhancing accessibility and user experience.
+
+---
+
 ### 📜 Certifications
 
-- **Salesforce Developer Virtual Internship** – SmartIntern & AICTE  
+- **Salesforce Developer Virtual Internship** – SmartIntern & AICTE
+- **Web Developer Intern** – Labmentix & ISO  
 - **Cybersecurity Analyst Job Simulation** – TCS Forage  
 - **Code Unnati Innovation Marathon** – SAP & Edunet Foundation  
 - **Advanced Training in Emerging Technologies** – Edunet Foundation (2024–25)  
@@ -115,8 +116,8 @@ CGPA: 9.2 <br>
 ### 🌐 Languages Known
 
 - English  
+- Telugu 
 - Kannada  
-- Telugu  
 - Hindi
 
 ---
@@ -127,6 +128,7 @@ CGPA: 9.2 <br>
 - 📞 Phone: **+91 9849483963**  
 - 🐙 GitHub: [github.com/SHERISHIVAJI](https://github.com/SHERISHIVAJI)  
 - 💼 LinkedIn: [linkedin.com/in/sherishivaji2774](https://www.linkedin.com/in/sherishivaji2774/)
+- Potfolio: [ my-portfolio-xi-nine-tkaly4qyzx.vercel.app/ ](https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/)
 
 ---
 
