@@ -1,134 +1,153 @@
-<h1 align="center">Hi, I'm SHERI SHIVAJI</h1>
+<h1 align="center">Hi 👋, I'm SHERI SHIVAJI</h1>
+
+<h3 align="center">
+Aspiring Software Developer | Java Full-Stack Enthusiast | Problem Solver
+</h3>
 
 <p align="center">
-  Aspiring Full-Stack Developer (Java, HTML, CSS, JavaScript, MySQL) | B.Tech CSE (2025) – JNTUH | Passionate About Scalable Software Solutions, Web Applications & Clean UI Design<br>
+Passionate about building scalable web applications, backend systems, and responsive user interfaces using Java and modern web technologies.
 </p>
 
 <p align="center">
-  <a href="https://github.com/SHERISHIVAJI" target="_blank">
-    <img src="https://img.shields.io/github/followers/SHERISHIVAJI?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/SHERISHIVAJI">
+    <img src="https://img.shields.io/github/followers/SHERISHIVAJI?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="https://www.linkedin.com/in/sherishivaji2774/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Profile" />
+  
+  <a href="https://www.linkedin.com/in/sherishivaji2774/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-</p>
-
-### About Me
-
-Motivated and detail-oriented **B.Tech Computer Science Engineering** graduate with a strong foundation in programming and software development. Proficient in **Java, C++, Python, C, HTML, CSS, JavaScript**, and **MySQL**. Looking forward to contributing to impactful projects and growing within a dynamic and collaborative development team.
-
-### Languages & Tools
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  
+  <a href="mailto:shivajisheri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### Technical Skills
+## 👨‍💻 About Me
 
-- **Languages:** Java, C++, C, Python, PHP
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Database:** MySQL
-- **Tools & Platforms:** Git, GitHub, Eclipse, VS Code, DevC++, Turbo C++
-- **Concepts:** OOP, DSA, SDLC, DBMS
-- **Other:** Responsive Web Design, Web Performance Optimization, SEO Basics 
-
----
-
-### Education
-
-- **Bachelor of Technology - Computer Science Engineering** <br>
-Avanthi Institute of Engineering and Technology, JNTUH <br>
-Nov '21 - Jul '25 <br>
-CGPA: 8.15 <br>
-- **Intermediate - MPC** <br>
-Vijetha Junior College <br>
-Jun '19 - May '21 <br>
-CGPA: 9.58 <br>
-- **SSC** <br>
-Zilla Parishad High School <br>
-Jun '18 - May '19 <br>
-CGPA: 9.2 <br>
+- 🎓 B.Tech in Computer Science Engineering (2025) – JNTUH
+- 💻 Interested in Software Development, Backend Engineering & Full-Stack Development
+- 🌱 Currently improving skills in Java, Web Development, and Problem Solving
+- 🔍 Passionate about clean code, scalable applications, and responsive UI design
+- 🤝 Open to internships, entry-level software roles, and collaborative projects
 
 ---
 
-### Projects
+## 🚀 Technical Skills
 
-#### [Navigating Privacy Conflicts in Social Media: A Multi-Party Approach](https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media_a_multy_party_approach-)
+### Programming Languages
+- Java
+- C++
+- Python
+- C
+- PHP
 
-- **Technologies Used:** Java, JSP/Servlets, MySQL  
-- **Description:** Built a web-based system that enables multiple users to collaboratively manage privacy settings on shared social media content.  
-  Implemented backend logic in Java using JSP/Servlets and managed user data securely with MySQL. Focused on personalized privacy control beyond default platform standards.
+### Web Technologies
+- HTML5
+- CSS3
+- JavaScript
+- JSP & Servlets
 
----
+### Database
+- MySQL
 
-#### [Developer-Focused Defect Forecasting](https://github.com/SHERISHIVAJI/Developer-Focused-Defect-Forecasting)
+### Tools & Platforms
+- Git & GitHub
+- Eclipse IDE
+- VS Code
 
-- **Technologies Used:** Java, JSP/Servlets, Python (ML), MySQL  
-- **Description:** Built a web-based defect prediction system using **Random Forest** and **Naive Bayes** algorithms to forecast bugs based on developer behavior and code metrics.  
-  Integrated Java (JSP/Servlets) frontend with a Python ML backend and MySQL database for efficient data handling and result analysis.
-
----
-
-#### [SHERU-virtual-assistent](https://shivaji-virtual-assistent.vercel.app/)
-
-- **Technologies Used:** HTML, CSS, JavaScript  
-- **Description:** Developed a web-based virtual assistant named "SHERU" using HTML, CSS, and JavaScript. The assistant leverages the Web Speech API to enable voice commands for hands-free interaction, enhancing accessibility and user experience.
-
----
-
-### Certifications
-
-- **Salesforce Developer Virtual Internship** – SmartIntern & AICTE
-- **Web Developer Intern** – Labmentix & ISO  
-- **Cybersecurity Analyst Job Simulation** – TCS Forage  
-- **Code Unnati Innovation Marathon** – SAP & Edunet Foundation  
-- **Advanced Training in Emerging Technologies** – Edunet Foundation (2024–25)  
-- **Career Edge Certificate** – TCS iON
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- DBMS
+- SDLC
 
 ---
 
-### Additional Highlights
+## 📌 Featured Projects
 
-- **Technical Presentation (PPT)** on **Apache Kafka**
-- **Poster Presentation Winner** – Avanthi Institute of Engineering and Technology
-- **Industrial Visit:** Infosys – Webinar on Industry Trends
+### 🔹 Developer-Focused Defect Forecasting
+📍 Tech Stack: Java, JSP/Servlets, Python (ML), MySQL
 
----
+- Developed a defect prediction system using Machine Learning algorithms like Random Forest and Naive Bayes.
+- Integrated Java-based web application with Python ML models and MySQL database.
+- Focused on analyzing developer behavior and code metrics for bug prediction.
 
-### Soft Skills
-
-- Strong problem-solving ability.
-- Effective communicator and active team player.
-- Detail-oriented and quick learner.
+🔗 GitHub Repository:  
+https://github.com/SHERISHIVAJI/Developer-Focused-Defect-Forecasting
 
 ---
 
-### Languages Known
+### 🔹 Navigating Privacy Conflicts in Social Media
+📍 Tech Stack: Java, JSP/Servlets, MySQL
 
-- English  
-- Telugu 
-- Kannada  
-- Hindi
+- Built a collaborative privacy management system for shared social media content.
+- Implemented secure user management and customized privacy settings.
+- Designed backend functionality using Java and MySQL.
+
+🔗 GitHub Repository:  
+https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media_a_multy_party_approach-
 
 ---
 
-### Contact
+### 🔹 SHERU Virtual Assistant
+📍 Tech Stack: HTML, CSS, JavaScript
 
-- **Email:** shivajisheri@gmail.com 
-- **Phone:** +91 9849483963
-- **GitHub:** [github.com/SHERISHIVAJI](https://github.com/SHERISHIVAJI)  
-- **LinkedIn:** [linkedin.com/in/sherishivaji2774](https://www.linkedin.com/in/sherishivaji2774/)
-- **Potfolio:** [ my-portfolio-xi-nine-tkaly4qyzx.vercel.app/ ](https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/)
+- Developed a browser-based virtual assistant using Web Speech API.
+- Enabled voice-based interaction for improved accessibility and user experience.
+- Designed responsive and interactive frontend interface.
+
+🔗 Live Demo:  
+https://shivaji-virtual-assistent.vercel.app/
+
 ---
 
-> “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
+## 🏆 Certifications
+
+- Programming using Java – Infosys Springboard :contentReference[oaicite:0]{index=0}
+- CSS3 – Infosys Springboard :contentReference[oaicite:1]{index=1}
+- HTML5 - The Language – Infosys Springboard :contentReference[oaicite:2]{index=2}
+- Salesforce Developer Virtual Internship – SmartIntern & AICTE
+- Cybersecurity Analyst Job Simulation – TCS Forage
+- Career Edge Certificate – TCS iON
+- Advanced Training in Emerging Technologies – Edunet Foundation
+
+---
+
+## 🏅 Achievements
+
+- 🏆 Poster Presentation Winner – Avanthi Institute of Engineering and Technology
+- 📊 Technical Presentation on Apache Kafka
+- 🏢 Participated in Infosys Industry Webinar & Industrial Visit
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: shivajisheri@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sherishivaji2774/
+- 💻 GitHub: https://github.com/SHERISHIVAJI
+- 🌐 Portfolio: https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHERISHIVAJI&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHERISHIVAJI&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHERISHIVAJI&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Strive not to be a success, but rather to be of value."</i> – Albert Einstein
+</p>
