@@ -68,7 +68,7 @@ Passionate about building scalable web applications, backend systems, and respon
 ## 📌 Featured Projects
 
 ### 🔹 Developer-Focused Defect Forecasting
-📍 Tech Stack: Java, JSP/Servlets, Python (ML), MySQL
+📍 Tech Stack: Java, JSP/Servlets, MySQL
 
 - Developed a defect prediction system using Machine Learning algorithms like Random Forest and Naive Bayes.
 - Integrated Java-based web application with Python ML models and MySQL database.
@@ -105,9 +105,9 @@ https://shivaji-virtual-assistent.vercel.app/
 
 ## 🏆 Certifications
 
-- Programming using Java – Infosys Springboard :contentReference[oaicite:0]{index=0}
-- CSS3 – Infosys Springboard :contentReference[oaicite:1]{index=1}
-- HTML5 - The Language – Infosys Springboard :contentReference[oaicite:2]{index=2}
+- Programming using Java – Infosys Springboard
+- CSS3 – Infosys Springboard
+- HTML5 - The Language – Infosys Springboard
 - Salesforce Developer Virtual Internship – SmartIntern & AICTE
 - Cybersecurity Analyst Job Simulation – TCS Forage
 - Career Edge Certificate – TCS iON
