@@ -108,6 +108,7 @@ https://shivaji-virtual-assistent.vercel.app/
 - Programming using Java – Infosys Springboard
 - CSS3 – Infosys Springboard
 - HTML5 - The Language – Infosys Springboard
+- JavaScript - Infosys Springboard
 - Salesforce Developer Virtual Internship – SmartIntern & AICTE
 - Cybersecurity Analyst Job Simulation – TCS Forage
 - Career Edge Certificate – TCS iON
