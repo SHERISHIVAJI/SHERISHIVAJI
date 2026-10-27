@@ -1,14 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Allow manual triggering from the Actions tab
   workflow_dispatch:
-  
-  # Run on every push to the main branch
   push:
     branches:
       - main
@@ -20,7 +15,7 @@ jobs:
       contents: write
     
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Generate Snake SVGs
@@ -31,7 +26,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push SVGs to the output branch
+      - name: Push SVGs to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
