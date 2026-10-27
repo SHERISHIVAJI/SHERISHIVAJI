@@ -1,290 +1,247 @@
+ <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:4F46E5,100:7C3AED&height=230&section=header&text=SHERI%20SHIVAJI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Sheri Shivaji profile banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=Building+Practical+Web+Applications;Java+%7C+React+%7C+JavaScript+%7C+MySQL;Software+Development+%7C+Problem+Solving" alt="Animated developer introduction"/>
+
+<p>
+<a href="https://www.linkedin.com/in/sherishivaji2774/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/SHERISHIVAJI"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/SHERISHIVAJI/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/shivajisheri"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="mailto:shivajisheri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+I am a Computer Science Engineering graduate interested in developing practical, database-driven web applications and maintainable software solutions.
+
+My development interests include Java programming, full-stack web development, frontend architecture, database integration, authentication, and problem-solving. I enjoy learning new technologies and applying software engineering principles to real-world projects.
+
+- **Current role:** Quality Associate at Amazon, LMAQ — Overall Delivery Quality
+- **Education:** B.Tech in Computer Science Engineering
+- **Primary technologies:** Java, JavaScript, React, MySQL, and Supabase
+- **Web technologies:** HTML5, CSS3, JSP, Servlets, JDBC, and REST APIs
+- **Core concepts:** Object-Oriented Programming, Data Structures and Algorithms, CRUD, authentication, and Role-Based Access Control
+- **Career interests:** Java Development and Full-Stack Development
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Java, JavaScript, Python, HTML and CSS"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js" alt="React, Vite, HTML, CSS and JavaScript"/>
+</p>
+
+`React` · `JavaScript` · `JSX` · `HTML5` · `CSS3` · Responsive Design · Component-Based Architecture
+
+### Backend and Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL and Supabase"/>
+</p>
+
+`Java` · `JSP` · `Servlets` · `JDBC` · `REST APIs` · `JSON` · `CRUD Operations` · `Authentication` · `RBAC`
+
+### Tools and Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vercel" alt="Git, GitHub, Visual Studio Code, IntelliJ IDEA, Eclipse and Vercel"/>
+</p>
+
+---
+
+## Projects
+
+### 1. SV_ORBIT — Enterprise Workflow and Role-Based Task Hub
+
+<img src="https://img.shields.io/badge/Project-In%20Progress-D97706?style=flat-square" alt="Project in progress"/>
+<img src="https://img.shields.io/badge/Category-Full%20Stack%20Development-4F46E5?style=flat-square" alt="Full stack development"/>
+
+SV_ORBIT is a workflow management application focused on role-oriented access, hierarchical task organization, and structured collaboration. The project emphasizes maintainable frontend architecture and integration with a backend data platform.
+
+**Core features and engineering focus**
+
+- Role-Based Access Control (RBAC) and permission-aware workflows.
+- Hierarchical task organization and workflow management.
+- Reusable React components and modular user interface design.
+- Supabase integration for backend services and data persistence.
+- Separation of presentation, application state, and data responsibilities.
+- Consideration of authentication and database-level access policies.
+
+**Technology stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,supabase" alt="React, JavaScript and Supabase"/>
+</p>
+
+**Project status:** In progress.
+
+---
+
+### 2. Navigating Privacy Conflicts in Social Media
+
+<img src="https://img.shields.io/badge/Category-Java%20Web%20Application-0A66C2?style=flat-square" alt="Java web application"/>
+<img src="https://img.shields.io/badge/Technology-JSP%20%7C%20Servlets%20%7C%20MySQL-6F42C1?style=flat-square" alt="JSP, Servlets and MySQL"/>
+
+A Java-based web application focused on privacy challenges in social networking. The project uses traditional Java web technologies and database integration to support application functionality and user data handling.
+
+**Key implementation areas**
+
+- Java-based web application development.
+- JSP and Servlets for web request handling and application flow.
+- JDBC integration for database operations.
+- MySQL for structured data storage.
+- User authentication and data-handling functionality.
+- CRUD operations and server-side application logic.
+
+**Technology stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,mysql" alt="Java and MySQL"/>
+</p>
+
+<a href="https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media"><img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore project repository"/></a>
+
+---
+
+### 3. SHERU — Virtual Assistant
+
+<img src="https://img.shields.io/badge/Category-Web%20Application-0891B2?style=flat-square" alt="Web application"/>
+<img src="https://img.shields.io/badge/Deployment-Live-2EA043?style=flat-square" alt="Live deployment"/>
+
+SHERU is a browser-based virtual assistant built with core web technologies. It uses browser capabilities and JavaScript-driven interactions to provide an interactive user experience without requiring a dedicated backend for its core client-side functionality.
+
+**Key implementation areas**
+
+- Interactive user interface using HTML and CSS.
+- JavaScript-driven events and dynamic DOM manipulation.
+- Integration with supported browser APIs, including speech-related functionality.
+- Client-side application logic and user interactions.
+- Web application deployment using Vercel.
+
+**Technology stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript"/>
+</p>
+
+<p>
+<a href="https://github.com/SHERISHIVAJI/Shivaji_Virtual_Assistent"><img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View source code"/></a>
+<a href="https://shivaji-virtual-assistent.vercel.app/"><img src="https://img.shields.io/badge/Open%20Live%20Demo-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open live demo"/></a>
+</p>
+
+---
+
+## Professional Experience
+
+### Quality Associate — Amazon
+
+**Department:** LMAQ — Overall Delivery Quality  
+**Duration:** September 2026 – Present
+
+Contribute to delivery-quality operations by applying defined standards, analytical judgment, and consistent process execution.
+
+- Evaluate work against established quality standards.
+- Identify discrepancies and support consistency in quality outcomes.
+- Apply attention to detail and structured problem-solving.
+- Follow established processes to support reliable operational workflows.
+
+---
+
+## Education
+
+### Bachelor of Technology — Computer Science Engineering
+
+**Avanthi Institute of Engineering & Technology**  
+**Duration:** 2021 – 2025
+
+<img src="https://img.shields.io/badge/CGPA-8.15%2F10-0891B2?style=for-the-badge" alt="CGPA 8.15 out of 10"/>
+
+Academic foundation in programming, data structures, software engineering, database management, and computer science fundamentals.
+
+---
+
+## Certifications and Training
+
+| Certification or Training | Provider or Program |
+|---|---|
+| Programming Using Java | Infosys Springboard |
+| Software Engineering and Agile Software Development | Certification |
+| Python Programming | Training |
+| JavaScript, HTML5, and CSS3 | Training |
+| AI Upskilling | Qualcomm Academy |
+| Salesforce Developer | Virtual Internship |
+
+---
+
+## GitHub Statistics
+
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:A855F7&height=220&section=header&text=Sheri%20Shivaji&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" alt="Sheri Shivaji" />
+<a href="https://github.com/SHERISHIVAJI">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHERISHIVAJI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/SHERISHIVAJI">
+<img height="180" src="https://streak-stats.demolab.com?user=SHERISHIVAJI&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=800&height=50&lines=Building+production-grade+web+applications;Java+%7C+React+%7C+MySQL+%7C+Supabase;Open+to+Full+Stack+%26+Java+Developer+roles" alt="Typing SVG" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHERISHIVAJI&bg_color=0D1117&color=22D3EE&line=818CF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHERISHIVAJI/SHERISHIVAJI/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHERISHIVAJI/SHERISHIVAJI/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SHERISHIVAJI/SHERISHIVAJI/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/SHERISHIVAJI/"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/></a>
+<a href="https://www.hackerrank.com/profile/shivajisheri"><img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/></a>
+<a href="https://github.com/SHERISHIVAJI"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
+
+</div>
+
+---
+
+## Contact
+
+I am interested in connecting with developers, collaborating on software projects, and exploring opportunities in Java and Full-Stack Development.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sherishivaji2774/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shivajisheri@gmail.com"><img src="https://img.shields.io/badge/Email-shivajisheri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/SHERISHIVAJI"><img src="https://img.shields.io/badge/GitHub-SHERISHIVAJI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<!-- SOCIAL & CODING PROFILES (All Links) -->
-<a href="https://www.linkedin.com/in/sherishivaji2774/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/SHERISHIVAJI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://leetcode.com/u/SHERISHIVAJI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://www.hackerrank.com/profile/shivajisheri"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-<a href="mailto:shivajisheri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:4F46E5,100:7C3AED&height=110&section=footer" alt="Profile footer banner"/>
 
-</div>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- SECTION 1: ABOUT ME                        -->
-<!-- ========================================== -->
-<table width="100%" style="border-radius: 8px; overflow: hidden; border-collapse: collapse;">
-  <tr>
-    <td bgcolor="#06B6D4" align="center" style="padding: 12px;">
-      <h2 style="color: white; margin: 0; font-family: sans-serif; letter-spacing: 2px;">ABOUT ME</h2>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
-  <tr>
-    <td width="65%" valign="top" style="padding: 20px;">
-      <h3>Software Developer & Full Stack Engineer</h3>
-      <p>I am a Computer Science Engineering graduate specializing in building <b>practical, database-backed web applications</b> — from role-based workflow tools to browser-based utilities.</p>
-      <p>My engineering focus is on <b>clean architecture, meaningful abstractions, and writing scalable code</b> that teammates can easily inherit and maintain.</p>
-      <br/>
-      <p>📍 <b>Current role:</b> Quality Associate at Amazon</p>
-      <p>💻 <b>Development focus:</b> Java · React · JavaScript · MySQL · Supabase</p>
-      <p>🧠 <b>Engineering interests:</b> OOP · DSA · REST APIs · System Design</p>
-      <p>🎯 <b>Career goal:</b> Ship maintainable software with real user value</p>
-    </td>
-    <td width="35%" align="center" valign="middle" style="padding: 20px; border-left: 1px solid #30363d;">
-      <img src="https://skillicons.dev/icons?i=java,js,react,html,css,python,mysql,supabase,git,github,idea,eclipse,vscode,vercel&perline=4" alt="Core Stack" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- SECTION 2: TECHNICAL STACK                 -->
-<!-- ========================================== -->
-<table width="100%" style="border-radius: 8px; overflow: hidden; border-collapse: collapse;">
-  <tr>
-    <td bgcolor="#6366F1" align="center" style="padding: 12px;">
-      <h2 style="color: white; margin: 0; font-family: sans-serif; letter-spacing: 2px;">TECHNICAL STACK</h2>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
-  <tr>
-    <td align="center" width="25%" valign="top" style="padding: 20px; border-right: 1px solid #30363d;">
-      <b>LANGUAGES</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=java,js,python,html,css" perline="5" /><br/><br/>
-      <small>Java, JavaScript, Python,<br/>HTML5, CSS3</small>
-    </td>
-    <td align="center" width="25%" valign="top" style="padding: 20px; border-right: 1px solid #30363d;">
-      <b>FRONTEND</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,vite" perline="2" /><br/><br/>
-      <small>React, Vite, JSX,<br/>Responsive UI</small>
-    </td>
-    <td align="center" width="25%" valign="top" style="padding: 20px; border-right: 1px solid #30363d;">
-      <b>BACKEND & DB</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,supabase" perline="2" /><br/><br/>
-      <small>MySQL, Supabase, JDBC,<br/>Servlets, JSP, REST APIs</small>
-    </td>
-    <td align="center" width="25%" valign="top" style="padding: 20px;">
-      <b>TOOLING</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vercel" perline="3" /><br/><br/>
-      <small>Git, GitHub, VS Code,<br/>IntelliJ, Eclipse, Vercel</small>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- SECTION 3: FEATURED PROJECT                -->
-<!-- ========================================== -->
-<table width="100%" style="border-radius: 8px; overflow: hidden; border-collapse: collapse;">
-  <tr>
-    <td bgcolor="#A855F7" align="center" style="padding: 12px;">
-      <h2 style="color: white; margin: 0; font-family: sans-serif; letter-spacing: 2px;">FEATURED PROJECT</h2>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
-  <tr>
-    <td align="center" style="padding: 30px;">
-      <h2>SV_ORBIT — Enterprise Workflow Hub</h2>
-      <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-CA8A04?style=for-the-badge" alt="Status"/>
-      <br/><br/>
-      <p><i>Architected a scalable workflow management system featuring Role-Based Access Control (RBAC) and hierarchical task organization.</i></p>
-      <img src="https://skillicons.dev/icons?i=react,js,supabase" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 0;">
-      <table width="100%" style="border-collapse: collapse;">
-        <tr>
-          <td width="50%" valign="top" style="padding: 20px; border-top: 1px solid #30363d; border-right: 1px solid #30363d;">
-            <b>Core Functionality</b>
-            <ul>
-              <li>Role-oriented application design with granular permissions</li>
-              <li>Hierarchical task and workflow management</li>
-              <li>Frontend (React) integrated with Supabase backend</li>
-              <li>Scalable data model for multi-team use</li>
-            </ul>
-          </td>
-          <td width="50%" valign="top" style="padding: 20px; border-top: 1px solid #30363d;">
-            <b>Engineering Highlights</b>
-            <ul>
-              <li>Reusable React component architecture</li>
-              <li>Supabase auth + Row-Level Security (RLS) considerations</li>
-              <li>Clean separation between UI, state, and data layers</li>
-              <li>Designed for team handoff and maintainability</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- SECTION 4: OTHER PROJECTS                  -->
-<!-- ========================================== -->
-<table width="100%" style="border-radius: 8px; overflow: hidden; border-collapse: collapse;">
-  <tr>
-    <td bgcolor="#7C3AED" align="center" style="padding: 12px;">
-      <h2 style="color: white; margin: 0; font-family: sans-serif; letter-spacing: 2px;">OTHER PROJECTS</h2>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="padding: 20px; border-right: 1px solid #30363d;">
-      <h3>Navigating Privacy Conflicts</h3>
-      <p><i>Privacy Challenges in Social Media</i></p>
-      <img src="https://img.shields.io/badge/COMPLETE-2EA043?style=flat-square" alt="Complete"/><br/><br/>
-      <p align="left">Developed a Java-based web application to address privacy vulnerabilities in social networking platforms. Implemented secure user authentication and data handling.</p>
-      <img src="https://skillicons.dev/icons?i=java,mysql" /><br/><br/>
-      <a href="https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media"><img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github" alt="Source"/></a>
-    </td>
-    <td width="50%" align="center" valign="top" style="padding: 20px;">
-      <h3>SHERU — Virtual Assistant</h3>
-      <p><i>Browser-Based Personal Assistant</i></p>
-      <img src="https://img.shields.io/badge/LIVE-2EA043?style=flat-square" alt="Live"/><br/><br/>
-      <p align="left">Engineered a client-side virtual assistant leveraging modern browser APIs. Integrated speech recognition and DOM manipulation to deliver an interactive experience without backend dependency.</p>
-      <img src="https://skillicons.dev/icons?i=html,css,js" /><br/><br/>
-      <a href="https://github.com/SHERISHIVAJI/Shivaji_Virtual_Assistent"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github" alt="Source"/></a>
-      <a href="https://shivaji-virtual-assistent.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel" alt="Live"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- SECTION 5: EXPERIENCE & EDUCATION          -->
-<!-- ========================================== -->
-<table width="100%" style="border-radius: 8px; overflow: hidden; border-collapse: collapse;">
-  <tr>
-    <td bgcolor="#0F9D8A" align="center" style="padding: 12px;">
-      <h2 style="color: white; margin: 0; font-family: sans-serif; letter-spacing: 2px;">EXPERIENCE & EDUCATION</h2>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 20px; border-right: 1px solid #30363d;">
-      <h3>Quality Associate</h3>
-      <p><b>Amazon</b> · LMAQ — Overall Delivery Quality</p>
-      <img src="https://img.shields.io/badge/SEP_2026_--_PRESENT-0F9D8A?style=flat-square&logo=calendar" alt="Dates"/><br/><br/>
-      <p>Operational quality assurance for overall delivery — ensuring accuracy, consistency, and process discipline at scale.</p>
-      <ul>
-        <li>Evaluate delivery-quality work against defined standards</li>
-        <li>Identify discrepancies and drive consistency</li>
-        <li>Apply analytical judgment within established workflows</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="padding: 20px;">
-      <h3>B.Tech — Computer Science Engineering</h3>
-      <p><b>Avanthi Institute of Engineering & Technology</b></p>
-      <img src="https://img.shields.io/badge/2021_--_2025-CA8A04?style=flat-square&logo=academicons" alt="Years"/>
-      <img src="https://img.shields.io/badge/CGPA-8.15_/_10-CA8A04?style=flat-square" alt="CGPA"/><br/><br/>
-      <p>Academic foundation in programming, data structures, software engineering, databases, and application architecture.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- SECTION 6: CERTIFICATIONS                  -->
-<!-- ========================================== -->
-<table width="100%" style="border-radius: 8px; overflow: hidden; border-collapse: collapse;">
-  <tr>
-    <td bgcolor="#CA8A04" align="center" style="padding: 12px;">
-      <h2 style="color: white; margin: 0; font-family: sans-serif; letter-spacing: 2px;">CERTIFICATIONS</h2>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 20px; border-right: 1px solid #30363d;">
-      <b>Programming & Software Development</b>
-      <ul>
-        <li><b>Programming Using Java</b> — Infosys Springboard</li>
-        <li><b>Software Engineering & Agile SD</b> — Certification</li>
-        <li><b>Python, JavaScript, HTML5, CSS3</b> — Training</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="padding: 20px;">
-      <b>Additional Learning</b>
-      <ul>
-        <li><b>AI Upskilling</b> — Qualcomm Academy</li>
-        <li><b>Salesforce Developer</b> — Virtual Internship</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- SECTION 7: GITHUB STATS                    -->
-<!-- ========================================== -->
-<table width="100%" style="border-radius: 8px; overflow: hidden; border-collapse: collapse;">
-  <tr>
-    <td bgcolor="#0891B2" align="center" style="padding: 12px;">
-      <h2 style="color: white; margin: 0; font-family: sans-serif; letter-spacing: 2px;">GITHUB METRICS</h2>
-    </td>
-  </tr>
-</table>
-
-<div align="center" style="padding: 20px; border: 1px solid #30363d; border-top: none;">
-  <a href="https://github.com/SHERISHIVAJI">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHERISHIVAJI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/SHERISHIVAJI">
-    <img height="180" src="https://streak-stats.demolab.com?user=SHERISHIVAJI&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-  </a>
-  <br/>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHERISHIVAJI&bg_color=0D1117&color=06B6D4&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity graph"/>
-</div>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- SECTION 8: CONNECT                         -->
-<!-- ========================================== -->
-<table width="100%" style="border-radius: 8px; overflow: hidden; border-collapse: collapse;">
-  <tr>
-    <td bgcolor="#2EA043" align="center" style="padding: 12px;">
-      <h2 style="color: white; margin: 0; font-family: sans-serif; letter-spacing: 2px;">LET'S CONNECT</h2>
-    </td>
-  </tr>
-</table>
-
-<div align="center" style="padding: 30px; border: 1px solid #30363d; border-top: none;">
-  <p><b>Open to Full Stack and Java Developer opportunities.</b></p>
-  <br/>
-  <a href="https://www.linkedin.com/in/sherishivaji2774/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shivajisheri@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/SHERISHIVAJI"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,50:06B6D4,100:6366F1&height=100&section=footer" alt="Footer" />
 </div>
