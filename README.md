@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     DESIGN TOKENS (documented for future edits)
+     DESIGN TOKENS
      base:#0B1120  panel1:#0F172A  panel2:#1E293B
      cyan:#06B6D4  indigo:#6366F1  violet:#7C3AED
      amber:#CA8A04 green:#2EA043   text:#F8FAFC  muted:#94A3B8
@@ -33,7 +33,7 @@
 
 <br/>
 
-<!-- ─── PULSING STATUS PILL (SVG) ─── -->
+<!-- ─── PULSING STATUS PILL ─── -->
 <svg width="230" height="34" viewBox="0 0 230 34" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open to work">
   <defs>
     <linearGradient id="pillBg" x1="0%" x2="100%">
@@ -84,13 +84,13 @@
 </svg>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     QUICK STATS — 4 animated ring counters
+     QUICK STATS — accurate data only
      ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%" cellpadding="6">
 <tr>
 <td bgcolor="#0F172A" align="center" width="25%" cellpadding="12">
-  <svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="1 plus years experience">
+  <svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="QA at Amazon, started 2026">
     <defs>
       <linearGradient id="ring1" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stop-color="#06B6D4"/>
@@ -102,8 +102,8 @@
       stroke-dasharray="364" stroke-dashoffset="364" transform="rotate(-90 75 75)">
       <animate attributeName="stroke-dashoffset" from="364" to="131" dur="2s" fill="freeze"/>
     </circle>
-    <text x="75" y="80" text-anchor="middle" fill="#F8FAFC" font-family="'Segoe UI',sans-serif" font-size="30" font-weight="800">1+</text>
-    <text x="75" y="102" text-anchor="middle" fill="#94A3B8" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" letter-spacing="1.5">YEARS EXP</text>
+    <text x="75" y="80" text-anchor="middle" fill="#F8FAFC" font-family="'Segoe UI',sans-serif" font-size="30" font-weight="800">QA</text>
+    <text x="75" y="102" text-anchor="middle" fill="#94A3B8" font-family="'Segoe UI',sans-serif" font-size="10" font-weight="600" letter-spacing="1.5">AMAZON · 2026</text>
   </svg>
 </td>
 <td bgcolor="#0F172A" align="center" width="25%" cellpadding="12">
@@ -245,7 +245,7 @@ My focus is **clean architecture, meaningful abstractions, and code teammates ca
 </svg>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     02 · SKILLS — animated proficiency bars (custom SVG)
+     02 · SKILLS
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -332,7 +332,7 @@ My focus is **clean architecture, meaningful abstractions, and code teammates ca
 </svg>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     03 · EXPERIENCE
+     03 · EXPERIENCE — CORRECTED with SEP 2026 date
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -359,6 +359,7 @@ My focus is **clean architecture, meaningful abstractions, and code teammates ca
 
 <h3>Quality Associate</h3>
 <img src="https://img.shields.io/badge/AMAZON-LMAQ%20%C2%B7%20DELIVERY%20QUALITY-0F9D8A?style=flat-square&logo=amazon&logoColor=white" alt="Amazon"/>
+<img src="https://img.shields.io/badge/SEP%202026%20--%20PRESENT-0F9D8A?style=flat-square&logo=calendar&logoColor=white" alt="Sep 2026 - Present"/>
 <img src="https://img.shields.io/badge/STATUS-CURRENT-2EA043?style=flat-square&logo=checkmarx&logoColor=white" alt="Current"/>
 
 Operational quality assurance for overall delivery — ensuring accuracy, consistency, and process discipline at scale.
@@ -423,7 +424,7 @@ Coursework in **programming, data structures, software engineering, databases**,
 </svg>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     05 · PROJECTS — 2x2 colored grid
+     05 · PROJECTS
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
