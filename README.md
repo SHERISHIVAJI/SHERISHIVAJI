@@ -1,8 +1,11 @@
-<!-- ======================================================= -->
-<!--                    PROFILE HEADER                       -->
-<!-- ======================================================= -->
+<!-- ===================================================== -->
+<!-- SHERI SHIVAJI | PROFESSIONAL RESUME -->
+<!-- GitHub Markdown Edition -->
+<!-- ===================================================== -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=2563EB" width="100%" alt="Header accent"/>
 
 # SHERI SHIVAJI
 
@@ -11,175 +14,202 @@
 **Hyderabad, India**
 
 <p>
-  <a href="mailto:shivajisheri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sherishivaji2774/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/SHERISHIVAJI">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="mailto:shivajisheri@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact_Me-172554?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/sherishivaji2774/">
+<img src="https://img.shields.io/badge/LINKEDIN-Professional_Profile-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/SHERISHIVAJI">
+<img src="https://img.shields.io/badge/GITHUB-Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://my-portfolio-xi-nine-tkaly4qyzx.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
----
-
-*Computer Science Engineering Graduate | Amazon Quality Associate | Aspiring Java Developer*
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Graduate;Java+%7C+SQL+%7C+Web+Development;Quality+Associate+at+Amazon;Building+Projects+and+Growing+as+a+Developer" alt="Professional headline"/>
 
 </div>
 
-<br>
+---
 
-<!-- ======================================================= -->
-<!--                    PROFESSIONAL SUMMARY                -->
-<!-- ======================================================= -->
-
-## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="25" align="center" alt="Profile"/> Professional Summary
+## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="25" align="center" alt="Profile"/> PROFESSIONAL SUMMARY
 
 Computer Science Engineering graduate with a foundation in **Core Java, Object-Oriented Programming, SQL, DBMS, and Web Development**. Experienced in developing academic and personal projects using Java, JSP, Servlets, JDBC, MySQL, JavaScript, React, and Supabase.
 
-Currently working as a **Quality Associate at Amazon**, gaining professional experience in quality processes, accuracy, and structured operations. Interested in Java Development and Software Engineering opportunities, with a focus on building reliable, maintainable, and scalable applications.
+Currently working as a **Quality Associate at Amazon**, gaining professional experience in quality processes, accuracy, and structured operations. Interested in Java Development and Software Engineering opportunities, with a focus on developing reliable, maintainable, and scalable applications.
 
 ---
 
-<!-- ======================================================= -->
-<!--                    PROFESSIONAL EXPERIENCE             -->
-<!-- ======================================================= -->
+## <img src="https://img.icons8.com/fluency/48/briefcase.png" width="25" align="center" alt="Experience"/> PROFESSIONAL EXPERIENCE
 
-## <img src="https://img.icons8.com/fluency/48/briefcase.png" width="25" align="center" alt="Experience"/> Professional Experience
+<table>
+<tr>
+<td width="75">
 
-### Amazon — Quality Associate
+<img src="https://img.icons8.com/color/96/amazon.png" width="60" alt="Amazon"/>
 
-**Last Mile Analytics & Quality (LMAQ) | Overall Delivery Quality**
+</td>
+<td>
 
-| Detail | Information |
-|:--|:--|
-| **Position** | Quality Associate |
-| **Organization** | Amazon |
-| **Location** | Hyderabad, India |
-| **Duration** | September 2026 – Present |
+### Quality Associate — Amazon
+
+**Last Mile Analytics & Quality (LMAQ)**  
+Overall Delivery Quality
+
+<img src="https://img.shields.io/badge/September_2026-Present-172554?style=flat-square" alt="Employment duration"/>
+<img src="https://img.shields.io/badge/Location-Hyderabad-2563EB?style=flat-square" alt="Location"/>
+
+</td>
+</tr>
+</table>
+
+**Responsibilities and professional development**
 
 - Work within a structured operational quality environment.
-- Follow established procedures and quality guidelines while carrying out assigned responsibilities.
+- Follow established procedures and quality guidelines when completing assigned responsibilities.
 - Develop attention to detail, accuracy, consistency, and process discipline.
 - Strengthen analytical thinking, communication, and problem-solving skills.
 
 ---
 
-<!-- ======================================================= -->
-<!--                    TECHNICAL SKILLS                    -->
-<!-- ======================================================= -->
-
-## <img src="https://img.icons8.com/fluency/48/source-code.png" width="25" align="center" alt="Skills"/> Technical Skills
+## <img src="https://img.icons8.com/fluency/48/source-code.png" width="25" align="center" alt="Skills"/> TECHNICAL SKILLS
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp,c" alt="Java, JavaScript, Python, C++, C"/>
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="HTML, CSS, React, Vite"/>
 </p>
 
-### Database & Backend Technologies
+### Database Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="Database Technologies"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="MySQL, PostgreSQL, Supabase"/>
 </p>
 
-### Tools & Platforms
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vercel" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vercel" alt="Git, GitHub, VS Code, IntelliJ IDEA, Eclipse, Vercel"/>
 </p>
 
-### Core Competencies
+### Technical Competencies
 
-| Category | Skills |
-|:--|:--|
-| **Java Development** | Core Java, OOP, Collections, JDBC, JSP, Servlets |
-| **Computer Science** | DSA Fundamentals, DBMS, SQL |
-| **Web Development** | HTML5, CSS3, JavaScript, React.js |
-| **Database** | MySQL, PostgreSQL, Supabase Fundamentals |
-| **Development Concepts** | CRUD Operations, Authentication, RBAC Fundamentals, REST API Fundamentals |
-| **Tools** | Git, GitHub, VS Code, IntelliJ IDEA, Eclipse |
+<table>
+<thead>
+<tr>
+<th align="left">Category</th>
+<th align="left">Technologies and Concepts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Programming</strong></td>
+<td>Core Java, OOP, Collections, DSA Fundamentals</td>
+</tr>
+<tr>
+<td><strong>Java Web Technologies</strong></td>
+<td>JDBC, JSP, Servlets, REST API Fundamentals</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>HTML5, CSS3, JavaScript, React.js</td>
+</tr>
+<tr>
+<td><strong>Database</strong></td>
+<td>SQL, MySQL, PostgreSQL, DBMS</td>
+</tr>
+<tr>
+<td><strong>Backend & Data Services</strong></td>
+<td>Supabase Fundamentals, Authentication, CRUD, RBAC Fundamentals</td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td>Git, GitHub, VS Code, IntelliJ IDEA, Eclipse</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
-<!-- ======================================================= -->
-<!--                    PROJECTS                             -->
-<!-- ======================================================= -->
+## <img src="https://img.icons8.com/fluency/48/project.png" width="25" align="center" alt="Projects"/> FEATURED PROJECTS
 
-## <img src="https://img.icons8.com/fluency/48/project.png" width="25" align="center" alt="Projects"/> Featured Projects
-
-### 01. SV_ORBIT
+### 01 / SV_ORBIT
 
 **Enterprise Workflow & Role-Based Task Management Hub**
 
-> A workflow management application concept designed to organize projects, tasks, team collaboration, and role-based access.
+<img src="https://img.shields.io/badge/STATUS-In_Progress-2563EB?style=for-the-badge" alt="In progress"/>
 
-**Technologies**
+A workflow management application designed to organize projects, tasks, team collaboration, and role-based access.
 
-`React.js` `JavaScript` `Supabase` `PostgreSQL` `Vite`
+**Technology Stack**
 
-**Key Features**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFFFFF)
+
+**Planned capabilities**
 
 - Role-based application architecture.
 - Authentication and database integration.
 - PostgreSQL-backed data management.
-- Row Level Security for access control.
+- Row Level Security for data access control.
 - Project and task management workflows.
 
-**Status:** In Progress
-
-<p>
-  <a href="https://github.com/SHERISHIVAJI">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-</p>
+**Repository:** [Explore GitHub](https://github.com/SHERISHIVAJI)
 
 ---
 
-### 02. Navigating Privacy Conflicts in Social Media
+### 02 / Navigating Privacy Conflicts in Social Media
 
 **Java-Based Web Application**
 
-> An academic project focused on privacy-related concerns and user access management in social media environments.
+A web application exploring privacy-related concerns and user access management in social media environments.
 
-**Technologies**
+**Technology Stack**
 
-`Java` `JSP` `Servlets` `JDBC` `MySQL`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=FFFFFF)
+![JSP](https://img.shields.io/badge/JSP-172554?style=flat-square)
+![Servlets](https://img.shields.io/badge/Servlets-1D4ED8?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-2563EB?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF)
 
 **Key Features**
 
-- Server-side application development using Java technologies.
+- Java-based server-side application development.
 - Database connectivity using JDBC.
-- Relational data management with MySQL.
+- Relational data management using MySQL.
 - Authentication and access-control concepts.
 
 <p>
-  <a href="https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media">
-    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="View Project"/>
-  </a>
+<a href="https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
+</a>
 </p>
 
 ---
 
-### 03. SHERU — Virtual Assistant
+### 03 / SHERU — Virtual Assistant
 
 **Browser-Based Voice Assistant**
 
-> A web-based virtual assistant developed using browser technologies and voice interaction APIs.
+A web-based virtual assistant built around browser technologies and voice interaction.
 
-**Technologies**
+**Technology Stack**
 
-`HTML5` `CSS3` `JavaScript` `Web APIs`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Web APIs](https://img.shields.io/badge/Web_APIs-2563EB?style=flat-square)
 
 **Key Features**
 
@@ -189,94 +219,96 @@ Currently working as a **Quality Associate at Amazon**, gaining professional exp
 - User interface development with HTML and CSS.
 
 <p>
-  <a href="https://github.com/SHERISHIVAJI/Shivaji_Virtual_Assistent">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  <a href="https://shivaji-virtual-assistent.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
-  </a>
+<a href="https://github.com/SHERISHIVAJI/Shivaji_Virtual_Assistent">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/>
+</a>
+<a href="https://shivaji-virtual-assistent.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
+</a>
 </p>
 
 ---
 
-### 04. SkillPulse
+### 04 / SkillPulse
 
 **Career & Job Search Dashboard**
 
-> A frontend-focused career dashboard concept designed to organize job-search activities and interview preparation.
+A frontend-focused career dashboard concept designed to organize job-search activities and interview preparation.
 
-**Technologies**
+**Technology Stack**
 
-`HTML5` `CSS3` `JavaScript` `LocalStorage`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-172554?style=flat-square)
 
 **Key Features**
 
 - Job application tracking interface.
-- Profile and account-related UI.
+- Profile and account-related UI features.
 - Interview preparation resources.
 - Career information dashboard.
 
-**Note:** Add the repository or live demo link when available.
+**Repository:** Add your project link when available.
 
 ---
 
-<!-- ======================================================= -->
-<!--                    EDUCATION                            -->
-<!-- ======================================================= -->
+## <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="25" align="center" alt="Education"/> EDUCATION
 
-## <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="25" align="center" alt="Education"/> Education
+<table>
+<tr>
+<td width="65">
 
-### Bachelor of Technology — Computer Science and Engineering
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="50" alt="Graduation"/>
 
-**Avanthi Institute of Engineering & Technology**
+</td>
+<td>
+
+### Bachelor of Technology
+
+**Computer Science and Engineering**
+
+Avanthi Institute of Engineering & Technology
+
+</td>
+</tr>
+</table>
 
 | Academic Detail | Information |
 |:--|:--|
-| **Degree** | B.Tech — Computer Science and Engineering |
-| **Duration** | 2021 – 2025 |
-| **CGPA** | 8.15 / 10 |
+| Degree | B.Tech — Computer Science and Engineering |
+| Duration | 2021 – 2025 |
+| CGPA | 8.15 / 10 |
 
 ---
 
-<!-- ======================================================= -->
-<!--                    CODING PROFILES                      -->
-<!-- ======================================================= -->
-
-## <img src="https://img.icons8.com/fluency/48/laptop-coding.png" width="25" align="center" alt="Coding"/> Coding Profiles
+## <img src="https://img.icons8.com/fluency/48/laptop-coding.png" width="25" align="center" alt="Coding"/> CODING PROFILES
 
 <p>
-  <a href="https://leetcode.com/u/SHERISHIVAJI/">
-    <img src="https://img.shields.io/badge/LeetCode-SHERISHIVAJI-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/shivajisheri">
-    <img src="https://img.shields.io/badge/HackerRank-shivajisheri-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+<a href="https://leetcode.com/u/SHERISHIVAJI/">
+<img src="https://img.shields.io/badge/LeetCode-SHERISHIVAJI-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/profile/shivajisheri">
+<img src="https://img.shields.io/badge/HackerRank-shivajisheri-2EC866?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank"/>
+</a>
 </p>
 
 ---
 
-<!-- ======================================================= -->
-<!--                    PROFESSIONAL DEVELOPMENT             -->
-<!-- ======================================================= -->
-
-## <img src="https://img.icons8.com/fluency/48/book.png" width="25" align="center" alt="Learning"/> Professional Development
+## <img src="https://img.icons8.com/fluency/48/book.png" width="25" align="center" alt="Learning"/> PROFESSIONAL DEVELOPMENT
 
 Currently focusing on:
 
 - Strengthening Core Java and Object-Oriented Programming.
 - Practicing Data Structures and Algorithms.
-- Improving SQL and database design skills.
+- Improving SQL, database design, and query writing.
 - Learning Spring Boot and REST API development.
-- Building projects with React.js and Supabase.
-- Improving Git, GitHub, debugging, and software development practices.
+- Building applications using React.js and Supabase.
+- Improving debugging, Git workflows, and software development practices.
 
 ---
 
-<!-- ======================================================= -->
-<!--                    LANGUAGES                            -->
-<!-- ======================================================= -->
-
-## <img src="https://img.icons8.com/fluency/48/language.png" width="25" align="center" alt="Languages"/> Languages
+## <img src="https://img.icons8.com/fluency/48/language.png" width="25" align="center" alt="Languages"/> LANGUAGES
 
 | Language | |
 |:--|:--|
@@ -287,64 +319,47 @@ Currently focusing on:
 
 ---
 
-<!-- ======================================================= -->
-<!--                    GITHUB STATISTICS                   -->
-<!-- ======================================================= -->
-
-## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="25" align="center" alt="Statistics"/> GitHub Statistics
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="25" align="center" alt="Statistics"/> GITHUB STATISTICS
 
 <div align="center">
 
 <a href="https://github.com/SHERISHIVAJI">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SHERISHIVAJI&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    alt="GitHub Statistics"
-    height="165"
-  />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SHERISHIVAJI&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/SHERISHIVAJI">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHERISHIVAJI&layout=compact&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-    height="165"
-  />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHERISHIVAJI&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
 </a>
 
-<br>
+<br/>
 
 <a href="https://github.com/SHERISHIVAJI">
-  <img
-    src="https://streak-stats.demolab.com?user=SHERISHIVAJI&hide_border=true&theme=transparent"
-    alt="GitHub Contribution Streak"
-  />
+<img src="https://streak-stats.demolab.com?user=SHERISHIVAJI&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ======================================================= -->
-<!--                    CONTACT                              -->
-<!-- ======================================================= -->
+## <img src="https://img.icons8.com/fluency/48/new-post.png" width="25" align="center" alt="Contact"/> LET'S CONNECT
 
-## <img src="https://img.icons8.com/fluency/48/new-post.png" width="25" align="center" alt="Contact"/> Let's Connect
+Interested in opportunities related to **Java Development, Software Engineering, and Full-Stack Development**.
 
-I am interested in opportunities related to **Java Development, Software Engineering, and Full-Stack Development**.
-
-If you would like to discuss software development, projects, or professional opportunities, feel free to connect.
+Open to connecting with developers, recruiters, and professionals to exchange ideas and explore opportunities.
 
 <div align="center">
 
 <a href="mailto:shivajisheri@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+<img src="https://img.shields.io/badge/EMAIL_ME-172554?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sherishivaji2774/">
-  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br><br>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=2563EB" width="100%" alt="Footer accent"/>
 
 **SHERI SHIVAJI**
 
