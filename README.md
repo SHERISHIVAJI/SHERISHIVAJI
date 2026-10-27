@@ -1,179 +1,232 @@
+ 
+<!--
+  GITHUB PROFILE README
+  Repository name: SHERISHIVAJI
+  Replace any details or links you want to update.
+-->
 
-<!-- PROFILE README: SHERI SHIVAJI -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sheri Shivaji</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SHERI%20SHIVAJI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Full%20Stack&descAlignY=58&descSize=16" width="100%" alt="Animated profile banner"/>
 
-<h3 align="center">
-  Java Developer | Backend Developer | Full-Stack Developer
-</h3>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Software+%F0%9F%9A%80;Java+%7C+React+%7C+JavaScript+Developer;Learning+Every+Day.+Building+Every+Day.;Turning+Problems+Into+Solutions+%E2%9C%A8" alt="Typing animation"/>
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sherishivaji2774/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/SHERISHIVAJI/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/shivajisheri">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="mailto:shivajisheri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/SHERISHIVAJI">
+<img src="https://komarev.com/ghpvc/?username=SHERISHIVAJI&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views"/>
+</a>
+<a href="https://github.com/SHERISHIVAJI?tab=followers">
+<img src="https://img.shields.io/github/followers/SHERISHIVAJI?label=FOLLOWERS&style=for-the-badge&color=203A43" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/SHERISHIVAJI?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate and Quality Associate at Amazon,
-working toward my goal of becoming a Software Engineer.
+```java
+public class SheriShivaji {
 
-- 🔭 Building projects with **Java, React.js, JavaScript, and SQL**
-- 🌱 Strengthening my skills in **Java backend development and Spring Boot**
-- 💻 Interested in **REST APIs, database design, and full-stack engineering**
-- 🧩 Practicing Data Structures and Algorithms
-- 🔍 Interested in debugging, software quality, and reliable applications
-- 🤝 Open to connecting with developers and exploring software engineering opportunities
-- 📍 India
+    String role = "Software Developer";
+    String[] languages = {"Java", "JavaScript", "SQL"};
+    String[] interests = {
+        "Full-Stack Development",
+        "Problem Solving",
+        "Clean Code",
+        "Building Real-World Projects"
+    };
 
----
+    public String getMindset() {
+        return "Learn continuously. Build consistently. Improve always.";
+    }
+}
+```
 
-## 🛠️ Technical Skills
+- 🎓 Computer Science Engineering graduate.
+- 💼 Quality Associate at Amazon, working in delivery quality.
+- 🚀 Developing projects with Java, React, JavaScript, and databases.
+- 🧠 Interested in Data Structures, Algorithms, OOP, and software architecture.
+- 🔍 Focused on writing maintainable code and solving practical problems.
+- 🌱 Currently strengthening my full-stack development skills.
 
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Programming languages"/>
 
 ### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" alt="Frontend technologies"/>
 
 ### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/JSP%20%26%20Servlets-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="JSP and Servlets"/>
-  <img src="https://img.shields.io/badge/JDBC-Backend-blue?style=for-the-badge" alt="JDBC"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,mysql,supabase" alt="Backend and database technologies"/>
 
-### Tools & Engineering
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vercel" alt="Development tools"/>
 
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms
-- CRUD Operations and Authentication
-- Role-Based Access Control (RBAC)
-- Debugging and Problem Solving
-- Database Integration and JSON
+</div>
+
+**Core concepts:** Object-Oriented Programming · Data Structures & Algorithms · REST APIs · JDBC · Servlets · JSP · CRUD · Authentication · Role-Based Access Control · Debugging
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. SV_ORBIT — Enterprise Workflow & Role-Based Task Hub
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:** React.js · JavaScript · Supabase
+<h3>🌌 SV_ORBIT</h3>
 
-- Developing a workflow and task management application.
-- Focusing on role-based access and team workflows.
-- Working with frontend components and database integration.
+**Enterprise Workflow & Role-Based Task Hub**
 
-🔗 [Explore my GitHub repositories](https://github.com/SHERISHIVAJI)
+A workflow management project focused on organizing tasks, managing roles, and supporting team collaboration.
 
-### 2. Navigating Privacy Conflicts in Social Media
+**Tech:** React · JavaScript · Supabase
 
-**Tech Stack:** Java · JSP · Servlets · JDBC · MySQL
+- Role-based access and workflow management
+- Task organization and tracking
+- Modern web application architecture
 
-- Developed a multi-user web application focused on privacy-related interactions.
-- Implemented backend functionality and relational database integration.
-- Worked with authentication, CRUD operations, and access control.
+<a href="https://github.com/SHERISHIVAJI">🔗 Explore my GitHub</a>
 
-🔗 [View Source Code](https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media)
+</td>
+<td width="50%" valign="top">
 
-### 3. SHERU — Virtual Assistant
+<h3>🔐 Privacy Conflicts in Social Media</h3>
 
-**Tech Stack:** HTML · CSS · JavaScript · Web APIs
+A web application exploring privacy conflicts and user-related data management in social media.
 
-- Built a browser-based virtual assistant.
-- Used browser speech APIs for voice input and spoken responses.
-- Implemented interactive functionality with JavaScript.
+**Tech:** Java · JSP · Servlets · JDBC · MySQL
 
-🔗 [Source Code](https://github.com/SHERISHIVAJI/Shivaji_Virtual_Assistent)  
-🌐 [Live Demo](https://shivaji-virtual-assistent.vercel.app/)
+- Server-side Java development
+- Database integration
+- Dynamic web application functionality
+
+<a href="https://github.com/SHERISHIVAJI/Navigating_privacy_conflicts_in_social_media">📂 View Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 SHERU — Virtual Assistant</h3>
+
+A browser-based virtual assistant built with web technologies and browser APIs.
+
+**Tech:** HTML · CSS · JavaScript · Web APIs
+
+- Interactive user interface
+- Browser-based functionality
+- Practical JavaScript application
+
+<a href="https://github.com/SHERISHIVAJI/Shivaji_Virtual_Assistent">📂 Source Code</a>
+
+<br/>
+
+<a href="https://shivaji-virtual-assistent.vercel.app/">🌐 Live Demo</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💡 What's Next?</h3>
+
+I'm continuously working to improve my development skills through hands-on projects.
+
+- Building better full-stack applications
+- Practicing problem-solving and DSA
+- Learning production-ready development practices
+- Improving code quality and architecture
+
+**My goal:** Turn ideas into useful, reliable software.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Professional Experience
+## 📊 GitHub Analytics
 
-**Quality Associate — Amazon**
+<div align="center">
 
-- Working with quality monitoring and process adherence.
-- Analyzing quality metrics and defect trends.
-- Maintaining accurate reports and process documentation.
-- Supporting issue investigation and continuous improvement.
+<a href="https://github.com/SHERISHIVAJI">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHERISHIVAJI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
 
-I bring this quality-focused mindset to software development through attention to detail, structured problem-solving, and an emphasis on reliable results.
+<a href="https://github.com/SHERISHIVAJI">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHERISHIVAJI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages"/>
+</a>
 
----
+<br/>
 
-## 🎓 Education
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHERISHIVAJI&bg_color=1a1b27&color=70a5fd&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
-**Bachelor of Technology — Computer Science Engineering**
-
-Avanthi Institute of Engineering & Technology  
-2021 – 2025
+</div>
 
 ---
 
-## 🏆 Certifications & Learning
+## 🧩 Problem-Solving Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/SHERISHIVAJI/">
+<img src="https://img.shields.io/badge/LeetCode-Practice%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/shivajisheri">
+<img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://github.com/SHERISHIVAJI">
+<img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Tech — Computer Science Engineering**  
+  Avanthi Institute of Engineering & Technology · 2021–2025 · CGPA: 8.15/10
 
 - Programming Using Java — Infosys Springboard
 - Software Engineering and Agile Software Development
-- Python Programming
-- JavaScript, HTML5, and CSS3 training
-- AI Upskilling — Hands-On Development from Model to App
+- Python, JavaScript, HTML5, and CSS3 training
+- AI Upskilling — Qualcomm Academy
 - Salesforce Developer Virtual Internship
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SHERISHIVAJI&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHERISHIVAJI&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages on GitHub"
-  />
-</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sherishivaji2774/">LinkedIn</a> •
-  <a href="https://github.com/SHERISHIVAJI">GitHub</a> •
-  <a href="https://leetcode.com/u/SHERISHIVAJI/">LeetCode</a> •
-  <a href="https://www.hackerrank.com/profile/shivajisheri">HackerRank</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Learning continuously. Building consistently. Improving every day. 🚀</i>
-</p>
+<a href="https://www.linkedin.com/in/sherishivaji2774/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:shivajisheri@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/SHERISHIVAJI">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💬 "Great software is built one thoughtful line of code at a time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
